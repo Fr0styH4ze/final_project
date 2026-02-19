@@ -22,6 +22,18 @@ For my final project I decided to make a simple e-commerce Flutter app that allo
 
 ## Screenshots
 
+### Supabase Screenshots
+
+**Supabase Database Table**
+
+<img width="1859" height="823" alt="Screenshot 2026-02-20 024611" src="https://github.com/user-attachments/assets/dad04a6e-4ceb-4e9d-a004-1d2326377b71" />
+
+**RLS Policies**
+
+<img width="1850" height="818" alt="Screenshot 2026-02-20 024512" src="https://github.com/user-attachments/assets/3e7ff9a7-542d-4233-ba30-54c245e7c29f" />
+
+### App Screenshots
+
 **Splash Screen**
 
 ![photo_2026-02-19_23-43-23](https://github.com/user-attachments/assets/61aceb39-9940-4f20-928e-fea2d716e682)
